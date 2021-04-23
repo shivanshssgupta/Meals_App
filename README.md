@@ -12,4 +12,4 @@ This is a demo app, so it displays meals with dummy data, but it can easily be l
   - The user can filter meal options based on his or her preferences
 
 # App Screenshots
-<img src="screenshots/1.jpeg" height="400">&nbsp;&nbsp;&nbsp;&nbsp;<img src="screenshots/2.jpeg" height="400" >&nbsp;&nbsp;&nbsp;&nbsp;<img src="screenshots/3.jpeg" height="400" >&nbsp;&nbsp;&nbsp;&nbsp;<img src="screenshots/4.jpeg" height="400" >&nbsp;&nbsp;&nbsp;&nbsp;<img src="screenshots/5.jpeg" height="400" >&nbsp;&nbsp;&nbsp;&nbsp;<img src="screenshots/6.jpeg" height="400" > 
+<img src="screenshots/1.jpeg" height="400">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="screenshots/2.jpeg" height="400" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="screenshots/3.jpeg" height="400" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="screenshots/4.jpeg" height="400" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="screenshots/5.jpeg" height="400" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="screenshots/6.jpeg" height="400" > 
